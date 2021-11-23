@@ -17,5 +17,4 @@ Steps to Reproduce:</br></br>
 5. Now Generate a CSRF POC</br></br>
 
 
-# DISCLAIMER: This exploit is for testing and educational purposes only. Any
-# other usage for this code is not allowed. Use at your own risk.
+DISCLAIMER: This exploit is for testing and educational purposes only. Any other usage for this code is not allowed. Use at your own risk.
