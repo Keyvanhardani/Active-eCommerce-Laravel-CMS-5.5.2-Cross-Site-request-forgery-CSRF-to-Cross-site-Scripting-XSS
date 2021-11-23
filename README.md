@@ -2,6 +2,7 @@ Exploit Title: Active eCommerce Laravel CMS 5.5.2 - Cross Site request forgery (
 Date: 25/11/2021</br>
 Exploit Author: Keyvan Hardani</br>
 Vendor Homepage: https://activeitzone.com/</br>
+Google Dork: intext:|| WHOPPS!!!THIS IS PIRATED COPY OF ACTIVE ECOMMERCE CMS</br>
 Software Link: https://codecanyon.net/item/active-ecommerce-cms/23471405</br>
 Version: up to 5.5.2</br>
 Tested on: Windows 10, Kali Linux, Burp Suite</br></br></br>
